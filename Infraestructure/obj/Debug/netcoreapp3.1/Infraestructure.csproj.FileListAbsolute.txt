@@ -1,0 +1,15 @@
+C:\Users\OAFERNANDEZO\Documents\ProductManagement\Infraestructure\obj\Debug\netcoreapp3.1\Infraestructure.csproj.AssemblyReference.cache
+C:\Users\OAFERNANDEZO\Documents\ProductManagement\Infraestructure\obj\Debug\netcoreapp3.1\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OAFERNANDEZO\Documents\ProductManagement\Infraestructure\obj\Debug\netcoreapp3.1\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\OAFERNANDEZO\Documents\ProductManagement\Infraestructure\obj\Debug\netcoreapp3.1\Infraestructure.AssemblyInfo.cs
+C:\Users\OAFERNANDEZO\Documents\ProductManagement\Infraestructure\obj\Debug\netcoreapp3.1\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\OAFERNANDEZO\Documents\ProductManagement\Infraestructure\bin\Debug\netcoreapp3.1\Infraestructure.deps.json
+C:\Users\OAFERNANDEZO\Documents\ProductManagement\Infraestructure\bin\Debug\netcoreapp3.1\Infraestructure.dll
+C:\Users\OAFERNANDEZO\Documents\ProductManagement\Infraestructure\bin\Debug\netcoreapp3.1\Infraestructure.pdb
+C:\Users\OAFERNANDEZO\Documents\ProductManagement\Infraestructure\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\OAFERNANDEZO\Documents\ProductManagement\Infraestructure\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\OAFERNANDEZO\Documents\ProductManagement\Infraestructure\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\OAFERNANDEZO\Documents\ProductManagement\Infraestructure\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\OAFERNANDEZO\Documents\ProductManagement\Infraestructure\obj\Debug\netcoreapp3.1\Infraestructure.csproj.CopyComplete
+C:\Users\OAFERNANDEZO\Documents\ProductManagement\Infraestructure\obj\Debug\netcoreapp3.1\Infraestructure.dll
+C:\Users\OAFERNANDEZO\Documents\ProductManagement\Infraestructure\obj\Debug\netcoreapp3.1\Infraestructure.pdb
